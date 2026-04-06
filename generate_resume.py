@@ -5,7 +5,7 @@ from string import Template
 # Se quiser, altere os campos abaixo e execute novamente para recriar o index.html.
 resume_data = {
     "name": "Vander Lucio Evaristo",
-    "headline": "Quality Assurance | QA focado em automacao de testes",
+    "headline": "Quality Assurance | QA focado em automação de testes",
     "location": "Belo Horizonte/MG, Brasil",
     "email": "vanderlucioevaristo@gmail.com",
     "phone": "+55 31 99928-5680",
